@@ -23,4 +23,4 @@ if __name__:
 
 # esto esta en el archivo main al final
 
-esto lo haces para q no se pueda ejecutar la ejecucion de main a partir de example u otro archivo dif a main
+esto lo haces para q no se pueda ejecutar la ejecucion de main a partir de example u otro archivo dif a main'''
